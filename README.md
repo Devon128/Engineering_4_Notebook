@@ -16,8 +16,7 @@ Write your assignment description here. What is the purpose of this assignment? 
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
-
+[New CircuitPython on Raspberry Pi Pico Project - Wokwi Simulator - Google Chrome 2022-09-09 13-53-28.zip](https://github.com/Devon128/Engineering_4_Notebook/files/9550439/New.CircuitPython.on.Raspberry.Pi.Pico.Project.-.Wokwi.Simulator.-.Google.Chrome.2022-09-09.13-53-28.zip)
 ### Wiring
 
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
