@@ -33,7 +33,7 @@ It wasn't really a challenge in my opinion. I did make some mistakes on this tho
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+This assignment was basiclly an add on to part 1, i had to get an red Led blinking every second of the countdown and make an green led turn on at liftoff.
 
 ### Part Link 
 
