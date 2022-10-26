@@ -35,13 +35,15 @@ It wasn't really a challenge in my opinion. I did make some mistakes on this tho
 
 This assignment was basiclly an add on to part 1, i had to get an red Led blinking every second of the countdown and make an green led turn on at liftoff.
 
-### Part Link 
+### Evidence 
 
 [Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
 
-### Part Image
+### Wiring
 
 Take a nice screenshot of your Onshape document. 
+
+### Code
 
 ### Reflection
 
