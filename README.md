@@ -33,21 +33,25 @@ It wasn't really a challenge in my opinion. I did make some mistakes on this tho
 
 ### Assignment Description
 
-This assignment was basiclly an add on to part 1, i had to get an red Led blinking every second of the countdown and make an green led turn on at liftoff.
+This assignment was basiclly an add on to part 1, i had to get an red Led blinking every second of the countdown and make an green led turn on to signifiy liftoff.
 
 ### Evidence 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+
+
+https://user-images.githubusercontent.com/71898987/198099321-d96e2e73-f573-47bf-9a85-35bbb0e763db.MOV
+
+
 
 ### Wiring
 
-Take a nice screenshot of your Onshape document. 
+
 
 ### Code
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This was a not so bad assignment. Now i did have an problem with my red led so i used 
 
 &nbsp;
 
