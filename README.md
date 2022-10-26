@@ -48,10 +48,24 @@ https://user-images.githubusercontent.com/71898987/198099321-d96e2e73-f573-47bf-
 
 
 ### Code
-C:\Users\djohnso88\Documents\Engineering_4_Notebook\Launch2.py
+import time
+import board
+import digitalio
+led = digitalio.DigitalInOut(board.GP13)
+led.direction = digitalio.Direction.OUTPUT 
+for x in range(10,0,-1):
+    print(x)
+    led.value = True
+    time.sleep(.5)
+    led.value = False
+    time.sleep(.5)
+print("lifftoff")
+ledgreen = digitalio.DigitalInOut(board.GP19)
+ledgreen.direction = digitalio.Direction.OUTPUT 
+
 ### Reflection
 
-This was a not so bad assignment. Now i did have an problem with my red led so i used 
+This was a not so bad assignment. Now i did have an problem with one of the leds , don't remmember which one it was but it was burnt out so i used the LED on the board instead.
 
 &nbsp;
 
@@ -66,12 +80,56 @@ Launch pad 3
 
 
 
-## Media Test
+## Launch Pad 3
 
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
+### Assignment Description
 
-### Test Link
+This was an add on to both Launch pad 1 and 2. I had to include an physical button that started off the countdown and still have my leds and serial monitor working.
 
-### Test Image
+### Evidence 
 
-### Test GIF
+
+
+
+
+
+https://user-images.githubusercontent.com/71898987/198102094-b1dd18c2-1334-49de-b4a0-4b03527a85e9.MOV
+
+
+
+
+
+### Wiring
+
+
+### Code
+
+mport time
+import board
+import digitalio
+led = digitalio.DigitalInOut(board.GP13)
+led.direction = digitalio.Direction.OUTPUT
+ledgreen = digitalio.DigitalInOut(board.GP18)
+ledgreen.direction = digitalio.Direction.OUTPUT 
+button=digitalio.DigitalInOut(board.GP28)
+button.direction = digitalio.Direction.INPUT 
+button.pull = digitalio.Pull.DOWN
+
+for x in range(10,0,-1):
+    print(x)
+    led.value = True
+    time.sleep(.5)
+    led.value = False
+    time.sleep(.5)
+
+print("lifftoff")
+ledgreen.value = True
+time.sleep(1)
+ledgreen.value = False
+time.sleep(1)
+button.pull = digitalio.PULL.UP
+
+
+### Reflection
+
+It was a little harder than the other 2 because i never used a button so i had to learn how to wire it up and i also had to find the code for it.
