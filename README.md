@@ -49,19 +49,7 @@ https://user-images.githubusercontent.com/71898987/198099321-d96e2e73-f573-47bf-
 
 ### Code
 import time
-import board
-import digitalio
-led = digitalio.DigitalInOut(board.GP13)
-led.direction = digitalio.Direction.OUTPUT 
-for x in range(10,0,-1):
-    print(x)
-    led.value = True
-    time.sleep(.5)
-    led.value = False
-    time.sleep(.5)
-print("lifftoff")
-ledgreen = digitalio.DigitalInOut(board.GP19)
-ledgreen.direction = digitalio.Direction.OUTPUT 
+https://github.com/Devon128/Engineering_4_Notebook/blob/main/Launch2.py
 
 ### Reflection
 
@@ -104,30 +92,7 @@ https://user-images.githubusercontent.com/71898987/198102094-b1dd18c2-1334-49de-
 
 ### Code
 
-mport time
-import board
-import digitalio
-led = digitalio.DigitalInOut(board.GP13)
-led.direction = digitalio.Direction.OUTPUT
-ledgreen = digitalio.DigitalInOut(board.GP18)
-ledgreen.direction = digitalio.Direction.OUTPUT 
-button=digitalio.DigitalInOut(board.GP28)
-button.direction = digitalio.Direction.INPUT 
-button.pull = digitalio.Pull.DOWN
-
-for x in range(10,0,-1):
-    print(x)
-    led.value = True
-    time.sleep(.5)
-    led.value = False
-    time.sleep(.5)
-
-print("lifftoff")
-ledgreen.value = True
-time.sleep(1)
-ledgreen.value = False
-time.sleep(1)
-button.pull = digitalio.PULL.UP
+https://github.com/Devon128/Engineering_4_Notebook/blob/main/Launch3.py
 
 
 ### Reflection
@@ -147,36 +112,7 @@ This was also an add on to the other launch pad assignments. The only thing diff
 ### Wiring
 
 ### Code
-import time
-import board
-import digitalio
-import pwmio
-from adafruit_motor import servo
-
-led = digitalio.DigitalInOut(board.GP13)
-led.direction = digitalio.Direction.OUTPUT
-ledgreen = digitalio.DigitalInOut(board.GP18)
-ledgreen.direction = digitalio.Direction.OUTPUT 
-button=digitalio.DigitalInOut(board.GP28)
-button.direction = digitalio.Direction.INPUT 
-button.pull = digitalio.Pull.DOWN
-pwm_servo = pwmio.PWMOut(board.GP0, duty_cycle=2 ** 15, frequency=50)
-servo1 = servo.Servo(pwm_servo, min_pulse=500, max_pulse=2500)
-servo1.angle = 0
-
-for x in range(10,0,-1):
-    print(x)
-    led.value = True
-    time.sleep(.5)
-    led.value = False
-    time.sleep(.5)
-
-servo1.angle = 180
-print("lifftoff")
-ledgreen.value = True
-time.sleep(1)
-ledgreen.value = False
-time.sleep(1)
+https://github.com/Devon128/Engineering_4_Notebook/blob/main/Launch4.py
 
 
 ### Reflection
@@ -204,7 +140,7 @@ https://github.com/Devon128/Engineering_4_Notebook/blob/main/Crash%20Avoidance.p
 
 ### Reflection
 
-
+This was a tough assignment for me but i had some help by my former classmate Jason.I learned some new things while doing this assignment
 
 
 ## Crash Avoidance 2
@@ -221,21 +157,38 @@ This was an add on to the 1st Avoidance task. I had to use the acceleration valu
 
 ### Code
 
-
+https://github.com/Devon128/Engineering_4_Notebook/blob/main/Crash%20Avoidance2.py
 ### Reflection
 
-
+This took me one class to do. My classmate jason also helped me somewhat on this assignment . I also learned how to use the acceleration values to trigger a warning light.
 
 ## Crash Avoidance 3
 
 ### Assignment Description
-
+Another add on to the Avoidance collection. In this assignment the task was to simply add an OLED screen to print live angular velocity values.
 
 ### Evidence 
 
 ### Wiring
 
 ### Code
-
+https://github.com/Devon128/Engineering_4_Notebook/blob/main/Crash%20Advoidance3.py
 
 ### Reflection
+This was a pretty solid / simple task because i used some old code from a pass assignment when i used a screen to print hello and a name of some sort.
+Note to my future self is that i can always go back to these assignments and use some code if i'm stuck.
+
+## Landing Area 1
+
+### Assignment Description
+
+I had to write an script that takes three coordinates and returns the area using a function.
+
+### Evidence 
+
+### Wiring
+
+### Code
+https://github.com/Devon128/Engineering_4_Notebook/blob/main/Landing%20area.py
+### Reflection
+This was very time consuming but i got it done. It was the toughest assignment i had to do so far. There were a lot of mistakes i made but fixed. Like before i need to work on getting my code in the right spot and tabbing it.
