@@ -12,7 +12,7 @@
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+This assignment was the initial step to it all. I had to make a countdown from 10 seconds to liftoff (0 seconds). This countdown also had to be printed on an serial monitor. 
 
 ### Evidence 
 
@@ -25,7 +25,7 @@ This may not be applicable to all assignments. Anything where you wire something
 https://wokwi.com/projects/342617914094912082
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+It wasn't really a challenge in my opinion. I did make some mistakes on this though , and i will say that one thing i needed help on was the for loop code, i didn't really understand it. But despite that i got it done!!
 
 &nbsp;
 
