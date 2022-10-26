@@ -187,3 +187,55 @@ But other than some part of the code , there were really no other problems i had
 ## Crash Avoidance 1
 
 ### Assignment Description
+in this assignment i had to wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monitor.
+
+
+### Evidence 
+
+
+
+### Wiring
+
+
+
+### Code
+
+https://github.com/Devon128/Engineering_4_Notebook/blob/main/Crash%20Avoidance.py
+
+### Reflection
+
+
+
+
+## Crash Avoidance 2
+
+### Assignment Description
+This was an add on to the 1st Avoidance task. I had to use the acceleration values to trigger a warning light if the helicopter is tilted 90 degrees.
+
+### Evidence 
+
+
+
+### Wiring
+
+
+### Code
+
+
+### Reflection
+
+
+
+## Crash Avoidance 3
+
+### Assignment Description
+
+
+### Evidence 
+
+### Wiring
+
+### Code
+
+
+### Reflection
