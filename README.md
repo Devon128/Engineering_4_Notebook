@@ -180,12 +180,13 @@ This took me one class to do. My classmate jason also helped me somewhat on this
 Another add on to the Avoidance collection. In this assignment the task was to simply add an OLED screen to print live angular velocity values.
 
 ### Evidence 
-It would look something like this.
-https://www.youtube.com/shorts/iq3UcXU0C9w
-"Evidence credit to Mr. Miller" https://github.com/millerm22/Engineering_4_Notebook
+
+
+https://user-images.githubusercontent.com/71898987/198163976-724645c1-f41c-4dc2-b184-a259aeb76ccc.MP4
+
+
 ### Wiring
-https://www.youtube.com/shorts/iq3UcXU0C9w
-"wiring credit to Mr. Miller" https://github.com/millerm22/Engineering_4_Notebook
+the wiring is also in the video above 
 ### Code
 https://github.com/Devon128/Engineering_4_Notebook/blob/main/Crash%20Advoidance3.py
 
