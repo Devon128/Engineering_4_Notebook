@@ -191,7 +191,7 @@ https://user-images.githubusercontent.com/71898987/198160989-2eb014e2-7d7a-4063-
 
 
 ### Wiring
-
+I don't think there was any real wiring for this assignment 
 ### Code
 https://github.com/Devon128/Engineering_4_Notebook/blob/main/Landing%20area.py
 ### Reflection
