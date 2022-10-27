@@ -170,7 +170,8 @@ Another add on to the Avoidance collection. In this assignment the task was to s
 ### Evidence 
 
 ### Wiring
-
+https://www.youtube.com/shorts/iq3UcXU0C9w
+"wiring credit to Mr. Miller" https://github.com/millerm22/Engineering_4_Notebook
 ### Code
 https://github.com/Devon128/Engineering_4_Notebook/blob/main/Crash%20Advoidance3.py
 
