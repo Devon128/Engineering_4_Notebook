@@ -109,8 +109,12 @@ This was also an add on to the other launch pad assignments. The only thing diff
 ### Evidence 
 
 
-### Wiring
+https://user-images.githubusercontent.com/71898987/198163088-de2b6c36-ac78-46d5-b440-41e1c24ebcc7.MP4
 
+
+
+### Wiring
+the wiring is also in the video above 
 ### Code
 https://github.com/Devon128/Engineering_4_Notebook/blob/main/Launch4.py
 
@@ -129,10 +133,14 @@ in this assignment i had to wire up an accelerometer that returns acceleration v
 ### Evidence 
 
 
+https://user-images.githubusercontent.com/71898987/198162765-fbb20745-1cd4-4a77-8a95-46b3ab054697.MP4
+
+
+
 
 ### Wiring
 
-
+the wiring is also in the video above 
 
 ### Code
 
@@ -152,8 +160,12 @@ This was an add on to the 1st Avoidance task. I had to use the acceleration valu
 
 
 
-### Wiring
+https://user-images.githubusercontent.com/71898987/198162500-0d2c46d5-5158-4ee0-a4fb-ca2a35276174.MP4
 
+
+
+### Wiring
+the wiring is also in the video above 
 
 ### Code
 
@@ -168,6 +180,7 @@ This took me one class to do. My classmate jason also helped me somewhat on this
 Another add on to the Avoidance collection. In this assignment the task was to simply add an OLED screen to print live angular velocity values.
 
 ### Evidence 
+It would look something like this.
 https://www.youtube.com/shorts/iq3UcXU0C9w
 "Evidence credit to Mr. Miller" https://github.com/millerm22/Engineering_4_Notebook
 ### Wiring
