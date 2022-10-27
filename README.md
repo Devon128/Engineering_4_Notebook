@@ -168,7 +168,8 @@ This took me one class to do. My classmate jason also helped me somewhat on this
 Another add on to the Avoidance collection. In this assignment the task was to simply add an OLED screen to print live angular velocity values.
 
 ### Evidence 
-
+https://www.youtube.com/shorts/iq3UcXU0C9w
+"Evidence credit to Mr. Miller" https://github.com/millerm22/Engineering_4_Notebook
 ### Wiring
 https://www.youtube.com/shorts/iq3UcXU0C9w
 "wiring credit to Mr. Miller" https://github.com/millerm22/Engineering_4_Notebook
