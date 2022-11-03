@@ -235,16 +235,13 @@ This was very time consuming but i got it done. It was the toughest assignment i
 Had to design a 3D printed in Onshape with the goal of maximizing the weight the beam can hold before failure.
 ### Evidence 
 
+![IMG_4789](https://user-images.githubusercontent.com/71898987/199794250-e9aba591-1c5a-43c7-b2d3-217a7e459d78.JPG)
 
-https://user-images.githubusercontent.com/71898987/198163976-724645c1-f41c-4dc2-b184-a259aeb76ccc.MP4
 
 
 ### Wiring
-the wiring is also in the video above 
-### Code
-https://github.com/Devon128/Engineering_4_Notebook/blob/main/Crash%20Advoidance3.py
+
 
 ### Reflection
-This was a pretty solid / simple task because i used some old code from a pass assignment when i used a screen to print hello and a name of some sort.
-Note to my future self is that i can always go back to these assignments and use some code if i'm stuck.
+
 
