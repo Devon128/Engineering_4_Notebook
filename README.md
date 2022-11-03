@@ -212,3 +212,39 @@ I don't think there was any real wiring for this assignment
 https://github.com/Devon128/Engineering_4_Notebook/blob/main/Landing%20area.py
 ### Reflection
 This was very time consuming but i got it done. It was the toughest assignment i had to do so far. There were a lot of mistakes i made but fixed. Like before i need to work on getting my code in the right spot and tabbing it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## FEA 1
+
+### Assignment Description.
+Had to design a 3D printed in Onshape with the goal of maximizing the weight the beam can hold before failure.
+### Evidence 
+
+
+https://user-images.githubusercontent.com/71898987/198163976-724645c1-f41c-4dc2-b184-a259aeb76ccc.MP4
+
+
+### Wiring
+the wiring is also in the video above 
+### Code
+https://github.com/Devon128/Engineering_4_Notebook/blob/main/Crash%20Advoidance3.py
+
+### Reflection
+This was a pretty solid / simple task because i used some old code from a pass assignment when i used a screen to print hello and a name of some sort.
+Note to my future self is that i can always go back to these assignments and use some code if i'm stuck.
+
