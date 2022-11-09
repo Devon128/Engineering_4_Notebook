@@ -245,3 +245,36 @@ Had to design a 3D printed in Onshape with the goal of maximizing the weight the
 ### Reflection
 
 
+
+## FEA 2
+
+### Assignment Description.
+Had to design a 3D printed in Onshape with the goal of maximizing the weight the beam can hold before failure.
+### Evidence 
+
+
+
+
+
+### Wiring
+
+
+### Reflection
+
+
+
+
+## FEA 3
+
+### Assignment Description.
+Had to design a 3D printed in Onshape with the goal of maximizing the weight the beam can hold before failure.
+### Evidence 
+
+
+
+
+
+### Wiring
+
+
+### Reflection
