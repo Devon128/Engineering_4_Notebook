@@ -240,34 +240,35 @@ Had to design a 3D printed in Onshape with the goal of maximizing the weight the
 
 
 ### Wiring
-
+no wiring for this assignment 
 
 ### Reflection
-
+Its complete , didn't take me and my paretner long to come up with a design. We tweaked it a little though.
 
 
 ## FEA 2
 
 ### Assignment Description.
-Had to design a 3D printed in Onshape with the goal of maximizing the weight the beam can hold before failure.
+Me and Cole had to run one static finite element analysis on our beam to determine what areas need to be improved.
 ### Evidence 
 
 
+![Beam_integrity_test](https://user-images.githubusercontent.com/71898987/200919577-b3a48c0a-8c23-436c-8fb0-4733c41e198e.png)
 
 
 
 ### Wiring
-
+no wiring 
 
 ### Reflection
-
+There was some stress in our designa couple of times so we tried to change itup a little and used all four of our simulations.One thing i learned from this assignment is that i should always takeaway from the blue and give it to the red.
 
 
 
 ## FEA 3
 
 ### Assignment Description.
-Had to design a 3D printed in Onshape with the goal of maximizing the weight the beam can hold before failure.
+Me and Cole had to use data from FEA simulations to improve the maximum weight the beam can hold before meeting one of the two failure conditions. 
 ### Evidence 
 
 
@@ -276,5 +277,5 @@ Had to design a 3D printed in Onshape with the goal of maximizing the weight the
 
 ### Wiring
 
-
+no wiring
 ### Reflection
