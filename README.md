@@ -279,3 +279,19 @@ Me and Cole had to use data from FEA simulations to improve the maximum weight t
 
 no wiring
 ### Reflection
+
+
+## 4.1 - Ring and Spinner
+
+### Assignment Description.
+Work with a partner to create either the Ring or Spinner 
+### Evidence 
+
+
+
+
+
+### Wiring
+
+no wiring
+### Reflection
