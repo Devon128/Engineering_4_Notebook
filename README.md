@@ -305,7 +305,6 @@ no wiring
 Me and my partner had to make the key and prop.
 ### Evidence 
 
-![image](https://user-images.githubusercontent.com/71898987/205136113-65973f2a-8a90-47e2-a62f-451ae62f915b.png)
 
 
 
