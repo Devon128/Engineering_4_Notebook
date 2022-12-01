@@ -299,12 +299,13 @@ no wiring
  I made the ring. It was pretty smooth and i re-learned some shortcut keys.
  
 
-## 4.2 - Ring and Spinner
+## 4.2 Key and Prop
 
 ### Assignment Description.
-
+Me and my partner had to make the key and prop.
 ### Evidence 
 
+![image](https://user-images.githubusercontent.com/71898987/205136113-65973f2a-8a90-47e2-a62f-451ae62f915b.png)
 
 
 
@@ -314,4 +315,4 @@ no wiring
 
 no wiring
 ### Reflection
-
+I made the key. It was pretty smooth. Although i did make a mistake and had to go back some steps due to the fact that i forgot about how i could  use the  = constraint feature  that would've  made the angles of my sketch the same length.
