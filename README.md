@@ -286,6 +286,7 @@ no wiring
 ### Assignment Description.
 Work with a partner to create either the Ring or Spinner 
 ### Evidence 
+![image](https://user-images.githubusercontent.com/71898987/205132343-c77d1e30-9986-4a71-8f60-86fe6519c71f.png)
 
 
 
@@ -295,3 +296,4 @@ Work with a partner to create either the Ring or Spinner
 
 no wiring
 ### Reflection
+ I made the ring. It was pretty smooth and i re-learned some shortcut keys.
