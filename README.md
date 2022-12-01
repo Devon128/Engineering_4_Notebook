@@ -297,3 +297,21 @@ Work with a partner to create either the Ring or Spinner
 no wiring
 ### Reflection
  I made the ring. It was pretty smooth and i re-learned some shortcut keys.
+ 
+
+## 4.2 - Ring and Spinner
+
+### Assignment Description.
+
+### Evidence 
+
+
+
+
+
+
+### Wiring
+
+no wiring
+### Reflection
+
