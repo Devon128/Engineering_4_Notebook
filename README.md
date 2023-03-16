@@ -335,4 +335,4 @@ I made the key. It was pretty smooth. Although i did make a mistake and had to g
 
 no wiring
 ### Reflection
-It was pretty tough but good becuase it helped me re-learn a few things about the different types of mates there are and what they do.
+It was pretty tough but good becuase it helped me re-learn a few things about the different types of mates there are and what they do. Overall this was pretty cool and really straight forward. 
