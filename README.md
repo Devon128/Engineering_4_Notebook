@@ -317,3 +317,21 @@ Me and my partner had to make the key and prop.
 no wiring
 ### Reflection
 I made the key. It was pretty smooth. Although i did make a mistake and had to go back some steps due to the fact that i forgot about how i could  use the  = constraint feature  that would've  made the angles of my sketch the same length.
+
+## 4.3 Assembly 
+
+### Assignment Description.
+ Assemble all of the parts that we made.
+### Evidence 
+
+
+
+
+
+
+
+### Wiring
+
+no wiring
+### Reflection
+It was pretty tough but good becuase it help me re-learn how to mate and told me what mates did what.
