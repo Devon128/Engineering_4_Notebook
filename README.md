@@ -279,7 +279,7 @@ Me and Cole had to use data from FEA simulations to improve the maximum weight t
 
 no wiring
 ### Reflection
-
+It was an pretty cool assignment.
 
 ## 4.1 - Ring and Spinner
 
